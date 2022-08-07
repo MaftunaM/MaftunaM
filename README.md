@@ -1,2 +1,2 @@
-### Hi I'm Maftuna /Mahmudova/ 
+### Hi I'm Maftuna /Mahmudova/ 🖐🏻😁
 
