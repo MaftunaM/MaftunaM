@@ -9,5 +9,5 @@ I'm Fronted Developer
 ### Languages and tools I work width :
 <code> <img src="https://cdn-front.kwork.ru/pics/t3/17/2149191-1565686017.jpg" width="80px"></code>
 
-###I am currently learning <code> <img src="https://avatars.mds.yandex.net/i?id=9e86d27ab73cd15605d9f08b94681cb4-5650815-images-thumbs&n=13" width="80px"></code>
+###I am currently learning <code> <img src="https://avatars.mds.yandex.net/i?id=9e86d27ab73cd15605d9f08b94681cb4-5650815-images-thumbs&n=13" ></code>
 
