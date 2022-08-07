@@ -7,4 +7,4 @@ I'm Fronted Developer
 <a href="https://www.instagram.com/m_bona_/"><img src="https://demax.pro/wa-data/public/shop/products/89/65/106589/images/103174/103174.970.png" width="50px">  </a>
  
 ### Languages and tools I work width :
-<code> <img src="https://e7.pngegg.com/pngimages/246/125/png-clipart-web-development-html-software-development-software-developer-mobile-app-development-web-design-angle-web-design.png" width="50px"></code>
+<code> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="50px"></code>
