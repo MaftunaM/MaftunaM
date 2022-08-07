@@ -10,5 +10,5 @@ I'm Fronted Developer
 <code> <img src="https://cdn-front.kwork.ru/pics/t3/17/2149191-1565686017.jpg" width="80px"></code>
 
 <code> <img src="https://codewinds.com/assets/article/reactjs-conf-logo-dsc_5109-800.jpg" width="50px"> </code>
-###I am currently learning 
+### I am currently learning 
 
