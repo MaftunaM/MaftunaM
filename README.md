@@ -9,5 +9,5 @@ I'm Fronted Developer
 ### Languages and tools I work width :
 <code> <img src="https://cdn-front.kwork.ru/pics/t3/17/2149191-1565686017.jpg" width="80px"></code>
 
-###I am currently learning <code> <img src="https://pngset.com/images/react-native-logo-symbol-trademark-lighting-badge-transparent-png-1585696.png"></code>
+###I am currently learning <code> <img src="https://pngset.com/images/react-native-logo-symbol-trademark-lighting-badge-transparent-png-1585696.png" width="80px"></code>
 
