@@ -1,4 +1,4 @@
-### Hi I'm Maftuna /Mahmudova/  <img src="https://i.gifer.com/IYCc.gif" ></img>
+### Hi I'm Maftuna /Mahmudova/  <img src="https://i.gifer.com/IYCc.gif" width="30px>
 
 <!--
 **MaftunaM/MaftunaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
