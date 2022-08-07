@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Maftuna /Mahmudova/  <img src="https://tenor.com/view/shy-blushing-wave-hi-hello-gif-16971861" width="50px"> 
 
 <!--
 **MaftunaM/MaftunaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
