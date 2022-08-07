@@ -1,4 +1,4 @@
-### Hi I'm Maftuna /Mahmudova/  <img src="https://tenor.com/view/shy-blushing-wave-hi-hello-gif-16971861" width="50px"> 
+### Hi I'm Maftuna /Mahmudova/  <div class="tenor-gif-embed" data-postid="16971861" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shy-blushing-wave-hi-hello-gif-16971861">Shy Blushing Sticker</a>from <a href="https://tenor.com/search/shy-stickers">Shy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **MaftunaM/MaftunaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
