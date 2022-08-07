@@ -11,4 +11,4 @@ I'm Fronted Developer
 
 
 ### I am currently learning :::
-<code> <img src="https://codewinds.com/assets/article/reactjs-conf-logo-dsc_5109-800.jpg" width="50px"> </code>
+<code> <img src="https://codewinds.com/assets/article/reactjs-conf-logo-dsc_5109-800.jpg" width="45px"> </code>
