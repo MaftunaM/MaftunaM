@@ -7,7 +7,7 @@ I'm Fronted Developer
 <a href="https://www.instagram.com/m_bona_/"><img src="https://demax.pro/wa-data/public/shop/products/89/65/106589/images/103174/103174.970.png" width="50px">  </a>
  
 ### Languages and tools I work width :
-<code> <img src="https://cdn-front.kwork.ru/pics/t3/17/2149191-1565686017.jpg" width="80px"></code>
+<code> <img src="https://cdn-front.kwork.ru/pics/t3/17/2149191-1565686017.jpg" width="80px"> <img src="https://avatars.mds.yandex.net/i?id=4e9c54ea63b0f18527492b8a9a9d2429-5905066-images-thumbs&n=13"></code>
 
 
 ### I am currently learning :::
