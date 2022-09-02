@@ -1,4 +1,4 @@
-### 𝓗𝓲 𝓘'𝓶 𝓜𝓪𝓯𝓽𝓾𝓷𝓪 /𝓜𝓪𝓱𝓶𝓾𝓭𝓸𝓿𝓪/ <img src="https://user-images.githubusercontent.com/99081177/154681249-5fc285a4-8c81-4998-b157-d96f46d57028.gif"/>🏻😁
+### 𝓗𝓲 𝓘'𝓶 𝓜𝓪𝓯𝓽𝓾𝓷𝓪 /𝓜𝓪𝓱𝓶𝓾𝓭𝓸𝓿𝓪/ <img src="https://user-images.githubusercontent.com/99081177/154681249-5fc285a4-8c81-4998-b157-d96f46d57028.gif"width="20"/>😁
 
 𝙸'𝚖 𝙵𝚛𝚘𝚗𝚝𝙴𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
